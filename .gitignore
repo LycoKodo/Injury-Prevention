@@ -1,0 +1,11 @@
+backend/.venv/
+backend/models/*.task
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+app/build/
+app/.dart_tool/
+app/.flutter-plugins*
+.DS_Store
+.env
+backend/.env
